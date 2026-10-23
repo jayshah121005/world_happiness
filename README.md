@@ -75,7 +75,3 @@ This project helps explore how economic conditions, social support, and healthy 
 
 ## 👨‍💻 Author
 Jay Shah
-
----
-
-⭐ If you find this project useful, feel free to explore the code and analysis!
